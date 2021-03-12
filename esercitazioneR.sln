@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eserciziLib", "eserciziLib\eserciziLib.csproj", "{3F3D096F-E1DA-4E4F-B418-D43D08C50A00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsercitazioneLibTest", "EsercitazioneLibTest\EsercitazioneLibTest.csproj", "{F3BD28DD-FC3D-428A-A1ED-75846432EB53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F3D096F-E1DA-4E4F-B418-D43D08C50A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3D096F-E1DA-4E4F-B418-D43D08C50A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3D096F-E1DA-4E4F-B418-D43D08C50A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3D096F-E1DA-4E4F-B418-D43D08C50A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BD28DD-FC3D-428A-A1ED-75846432EB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BD28DD-FC3D-428A-A1ED-75846432EB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BD28DD-FC3D-428A-A1ED-75846432EB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BD28DD-FC3D-428A-A1ED-75846432EB53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBF0E75F-FFFE-4C36-8B50-A98BF37047B7}
+	EndGlobalSection
+EndGlobal
