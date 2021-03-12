@@ -6,7 +6,7 @@ namespace EsercitazioneLibTest
     public class GestioneTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ScontoTest()
         {
         }
     }
